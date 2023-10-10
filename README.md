@@ -348,7 +348,7 @@ sudo docker stop id
 #### Build And Run The Docker Image Using Official Docker Commands With One Command Line
 
 ```
-sudo apt update && sudo apt install docker.io -y && git clone https://github.com/yamicode999/mirror-leech-telegram-bot-gdrive.git && cd mirror-leech-telegram-bot-gdrive && sudo docker build . -t mltb && sudo docker run -p 80:80 -p 8080:8080 mltb
+sudo apt update && sudo apt install docker.io -y && git clone https://github.com/bayivr233/mirror-leech-telegram-bot-gdrive.git && cd mirror-leech-telegram-bot-gdrive && sudo docker build . -t mltb && sudo docker run -p 80:80 -p 8080:8080 mltb
 ```
 
 #### Build And Run The Docker Image Using docker-compose
